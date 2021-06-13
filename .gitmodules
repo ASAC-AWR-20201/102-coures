@@ -4,3 +4,24 @@
 [submodule "JavaScript_class"]
 	path = JavaScript_class
 	url = https://github.com/AbeerAl-Rafati/JavaScript_class.git
+[submodule "JS_2"]
+	path = JS_2
+	url = https://github.com/AbeerAl-Rafati/JS_2.git
+[submodule "JS_lab5"]
+	path = JS_lab5
+	url = https://github.com/AbeerAl-Rafati/JS_lab5.git
+[submodule "lab_06"]
+	path = lab_06
+	url = https://github.com/AbeerAl-Rafati/lab_06.git
+[submodule "201Lab_02"]
+	path = 201Lab_02
+	url = https://github.com/AbeerAl-Rafati/201Lab_02.git
+[submodule "201_lab_04"]
+	path = 201_lab_04
+	url = https://github.com/AbeerAl-Rafati/201_lab_04.git
+[submodule "amman201"]
+	path = amman201
+	url = https://github.com/AbeerAl-Rafati/amman201.git
+[submodule "amman-201d19-lab05"]
+	path = amman-201d19-lab05
+	url = https://github.com/AbeerAl-Rafati/amman-201d19-lab05.git
