@@ -1,0 +1,6 @@
+[submodule "Html_class"]
+	path = Html_class
+	url = https://github.com/AbeerAl-Rafati/Html_class.git
+[submodule "JavaScript_class"]
+	path = JavaScript_class
+	url = https://github.com/AbeerAl-Rafati/JavaScript_class.git
